@@ -1,14 +1,9 @@
 
 > Abra esta pagina en [https://lococorp.github.io/tutorial-test/](https://lococorp.github.io/tutorial-test/)
 
-## Usar como extensión
+## Tutorial
 
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/lococorp/tutorial-test** e importar
+* [tutorial](/tutorial)
 
 ## Edita este proyecto ![Insignia de estado de compilación](https://github.com/lococorp/tutorial-test/workflows/MakeCode/badge.svg)
 

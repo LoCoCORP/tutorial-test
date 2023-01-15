@@ -3,7 +3,7 @@
 
 ## Tutorial
 
-* [tutorial](https://lococorp.github.io/tutorial)
+* [tutorial](/tutorial-test/tutorial)
 
 ## Edita este proyecto ![Insignia de estado de compilación](https://github.com/lococorp/tutorial-test/workflows/MakeCode/badge.svg)
 

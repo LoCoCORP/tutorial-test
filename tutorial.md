@@ -20,3 +20,5 @@ basic.showString("¡Hola mundo!")
 ## Step 3
 
 ¡Pruébalo en tu micro:bit!
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

@@ -4,8 +4,8 @@
 ## Tutorials
 
 * [tutorial](/tutorial-test/tutorial) [start](https://makecode.microbit.org/#tutorial:github:lococorp/tutorial-test/tutorial)
-* [tutorial 2](/tutorial-test/tutorial2) [start](https://makecode.microbit.org/#tutorial:github:lococorp/tutorial-test/tutorial2)
-* [another thing](/tutorial-test/anotherthing) [start](https://makecode.microbit.org/#tutorial:github:lococorp/tutorial-test/anotherthing)
+* [tutorial 2](/tutorial-test/tutorial2) [start 2](https://makecode.microbit.org/#tutorial:github:lococorp/tutorial-test/tutorial2)
+* [another thing](/tutorial-test/anotherthing) [start 3](https://makecode.microbit.org/#tutorial:github:lococorp/tutorial-test/anotherthing)
 
 ## Edita este proyecto ![Insignia de estado de compilación](https://github.com/lococorp/tutorial-test/workflows/MakeCode/badge.svg)
 

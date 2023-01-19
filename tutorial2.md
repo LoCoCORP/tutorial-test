@@ -4,7 +4,7 @@
 
 ## Step 1
 
-Arrastra el bloque de "mostrar cadena" al blucle "para siempre"
+No hagas nada, pídele todo a chatgpt
 ```blocks
 basic.showString("¡Hola mundo!")
 ```
